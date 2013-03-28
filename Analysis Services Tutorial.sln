@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Analysis Services Tutorial", "Analysis Services Tutorial\Analysis Services Tutorial.dwproj", "{06773AD8-8E7A-4EC3-B7EF-C705F097B868}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Analysis Services Tutorial - 2", "Analysis Services Tutorial - 2\Analysis Services Tutorial - 2.dwproj", "{5BDB69FA-9BF1-43E6-82A6-D082931E2C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06773AD8-8E7A-4EC3-B7EF-C705F097B868}.Development|Default.ActiveCfg = Development
+		{06773AD8-8E7A-4EC3-B7EF-C705F097B868}.Development|Default.Build.0 = Development
+		{06773AD8-8E7A-4EC3-B7EF-C705F097B868}.Development|Default.Deploy.0 = Development
+		{5BDB69FA-9BF1-43E6-82A6-D082931E2C9D}.Development|Default.ActiveCfg = Development
+		{5BDB69FA-9BF1-43E6-82A6-D082931E2C9D}.Development|Default.Build.0 = Development
+		{5BDB69FA-9BF1-43E6-82A6-D082931E2C9D}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
